@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="df571e41-3eb4-4b2b-b508-2512e08580cf" name="Changes" comment="commit">
+=======
+    <list default="true" id="df571e41-3eb4-4b2b-b508-2512e08580cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/config/Database.js" afterDir="false" />
+>>>>>>> b17f4ef4d7f0466364a8872fa2834142188b6c9d
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,14 +42,6 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;HTTP Request.request | #1.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.request | #2.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.request | #3.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.request | #4.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.request | #5.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.request | #6.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.request | #7.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.request | #8.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -63,32 +60,6 @@
       <recent name="C:\Users\Jessica\Documents\GitHub\DoublePower" />
       <recent name="C:\Users\Jessica\Documents\GitHub\DoublePower\views" />
     </key>
-  </component>
-  <component name="RunManager" selected="HTTP Request.request | #2">
-    <configuration name="request | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" index="2" requestIdentifier="#2" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="request | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" index="3" requestIdentifier="#3" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="request | #6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" index="6" requestIdentifier="#6" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="request | #7" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" index="7" requestIdentifier="#7" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="request | #8" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" index="8" requestIdentifier="#8" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="HTTP Request.request | #2" />
-        <item itemvalue="HTTP Request.request | #8" />
-        <item itemvalue="HTTP Request.request | #3" />
-        <item itemvalue="HTTP Request.request | #6" />
-        <item itemvalue="HTTP Request.request | #7" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -113,6 +84,7 @@
       <workItem from="1716722083374" duration="98000" />
       <workItem from="1716722203695" duration="38000" />
       <workItem from="1716722812489" duration="1287000" />
+<<<<<<< HEAD
       <workItem from="1716885706808" duration="29000" />
       <workItem from="1716965203642" duration="1973000" />
       <workItem from="1716967216868" duration="21000" />
@@ -121,6 +93,8 @@
       <workItem from="1717048310332" duration="4398000" />
       <workItem from="1717052775071" duration="16000" />
       <workItem from="1717058380940" duration="408000" />
+=======
+>>>>>>> b17f4ef4d7f0466364a8872fa2834142188b6c9d
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
