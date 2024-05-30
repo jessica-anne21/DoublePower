@@ -59,9 +59,41 @@ export const updateUser = async(req, res) => {
     } else {
         hashPassword = await argon2.hash(password);
     }
+    if(password !== confPassword) return res.status(400).json({msg: "Password and Confirm Password not the same"});
+    try {
+        await Users.update({
+            name: name,
+            email: email,
+            password: hashPassword,
+            role: role
+        },{
+            where:{
+                id: user.id
+            }
+        });
+        res.status(200).json({msg: "User Updated"});
 
+    } catch (error) {
+        res.status(400).json({msg: error.message});
+    }
 }
 
-export const deleteUser = (req, res) => {
+export const deleteUser = async(req, res) => {
+    const user = await Users.findOne({
+        where: {
+            uuid: req.params.id
+        }
+    });
+    if(!user) return res.status(404).json({msg: "User not found"});
+    try {
+        await Users.destroy({
+            where:{
+                id: user.id
+            }
+        });
+        res.status(200).json({msg: "User Deleted"});
 
+    } catch (error) {
+        res.status(400).json({msg: error.message});
+    }
 }

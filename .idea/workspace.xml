@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df571e41-3eb4-4b2b-b508-2512e08580cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/request.rest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controllers/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middleware/AuthUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/AuthRoute.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/controllers/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/Users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/models/ProductModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/ProductModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/request.rest" beforeDir="false" afterPath="$PROJECT_DIR$/backend/request.rest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/UserRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/UserRoute.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +51,11 @@
     "HTTP Request.request | #1.executor": "Run",
     "HTTP Request.request | #2.executor": "Run",
     "HTTP Request.request | #3.executor": "Run",
+    "HTTP Request.request | #4.executor": "Run",
+    "HTTP Request.request | #5.executor": "Run",
+    "HTTP Request.request | #6.executor": "Run",
+    "HTTP Request.request | #7.executor": "Run",
+    "HTTP Request.request | #8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -62,20 +76,28 @@
     </key>
   </component>
   <component name="RunManager" selected="HTTP Request.request | #2">
-    <configuration name="request | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" requestIdentifier="#1" runType="Run single request">
-      <method v="2" />
-    </configuration>
     <configuration name="request | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" index="2" requestIdentifier="#2" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="request | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" index="3" requestIdentifier="#3" runType="Run single request">
       <method v="2" />
     </configuration>
+    <configuration name="request | #6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" index="6" requestIdentifier="#6" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="request | #7" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" index="7" requestIdentifier="#7" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="request | #8" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/request.rest" index="8" requestIdentifier="#8" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="HTTP Request.request | #2" />
-        <item itemvalue="HTTP Request.request | #1" />
+        <item itemvalue="HTTP Request.request | #8" />
         <item itemvalue="HTTP Request.request | #3" />
+        <item itemvalue="HTTP Request.request | #6" />
+        <item itemvalue="HTTP Request.request | #7" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +129,7 @@
       <workItem from="1716967216868" duration="21000" />
       <workItem from="1717001769784" duration="31000" />
       <workItem from="1717009077405" duration="1197000" />
+      <workItem from="1717048310332" duration="4398000" />
     </task>
     <servers />
   </component>

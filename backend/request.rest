@@ -2,11 +2,11 @@ POST http://localhost:5000/users
 Content-Type: application/json
 
 {
-  "name": "John Doe",
-  "email": "john@gmail.com",
+  "name": "Jessica",
+  "email": "admin@gmail.com",
   "password": "123456",
   "confPassword": "123456",
-  "role": "user"
+  "role": "admin"
 }
 
 ###
@@ -15,3 +15,36 @@ GET http://localhost:5000/users
 ###
 //Get single user
 GET http://localhost:5000/users/14c75a6b-9f15-4420-abb2-5127441a1905
+
+###
+// Update a user
+PATCH http://localhost:5000/users/14c75a6b-9f15-4420-abb2-5127441a1905
+Content-Type: application/json
+
+{
+  "name": "John Updated",
+  "email": "john@gmail.com",
+  "password": "",
+  "confPassword": "",
+  "role": "user"
+}
+
+###
+/// delete a user
+DELETE http://localhost:5000/users/14c75a6b-9f15-4420-abb2-5127441a1905
+
+###
+// Login User
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+  "email": "admin@gmail.com",
+  "password": "123456"
+}
+
+###
+GET http://localhost:5000/me
+
+###
+DELETE http://localhost:5000/logout
