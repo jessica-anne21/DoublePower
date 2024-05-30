@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df571e41-3eb4-4b2b-b508-2512e08580cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/controllers/Auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/middleware/AuthUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/routes/AuthRoute.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/Users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/models/ProductModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/ProductModel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/request.rest" beforeDir="false" afterPath="$PROJECT_DIR$/backend/request.rest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/UserRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/UserRoute.js" afterDir="false" />
-    </list>
+    <list default="true" id="df571e41-3eb4-4b2b-b508-2512e08580cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,28 +33,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "HTTP Request.request | #1.executor": "Run",
-    "HTTP Request.request | #2.executor": "Run",
-    "HTTP Request.request | #3.executor": "Run",
-    "HTTP Request.request | #4.executor": "Run",
-    "HTTP Request.request | #5.executor": "Run",
-    "HTTP Request.request | #6.executor": "Run",
-    "HTTP Request.request | #7.executor": "Run",
-    "HTTP Request.request | #8.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Jessica/Documents/Uni Life/Semester 4/PWL/TEST_TUBES",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP Request.request | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #4.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #5.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #6.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #7.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jessica/Documents/Uni Life/Semester 4/PWL/TEST_TUBES&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jessica\Documents\GitHub\DoublePower\backend" />
@@ -130,6 +117,7 @@
       <workItem from="1717001769784" duration="31000" />
       <workItem from="1717009077405" duration="1197000" />
       <workItem from="1717048310332" duration="4398000" />
+      <workItem from="1717052775071" duration="16000" />
     </task>
     <servers />
   </component>
