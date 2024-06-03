@@ -1,17 +1,18 @@
-import React from 'react'
+import React from 'react';
 import {NavLink} from "react-router-dom";
+import logo from "../logo.png";
 
 const Navbar = () => {
   return (
     <div>
-      <nav className="navbar" role="navigation" aria-label="main navigation">
+      <nav className="navbar is-fixed-top has-shadow"
+       role="navigation" aria-label="main navigation">
         <div className="navbar-brand">
-          <NavLink cto="/dashboard" lassName="navbar-item">
-            <img src="https://bulma.io/images/bulma-logo.png" 
+          <NavLink to="/dashboard" className="navbar-item">
+            <img src={logo} 
             width="112" 
             height="28"
-            alt="logo"
-            />
+            alt="logo" />
           </NavLink>
       
           <a href='!#' role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -26,9 +27,6 @@ const Navbar = () => {
           <div className="navbar-end">
             <div className="navbar-item">
               <div className="buttons">
-                {/* <a className="button is-primary">
-                  <strong>Sign up</strong>
-                </a> */}
                 <button className="button is-light">
                   Log out
                 </button>
@@ -38,7 +36,7 @@ const Navbar = () => {
         </div>
       </nav>
     </div>
-  )
-}
+  );
+};
 
-export default Navbar
+export default Navbar;
