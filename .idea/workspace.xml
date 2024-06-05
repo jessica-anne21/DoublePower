@@ -44,27 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "HTTP Request.request | #1.executor": "Run",
-    "HTTP Request.request | #2.executor": "Run",
-    "HTTP Request.request | #3.executor": "Run",
-    "HTTP Request.request | #6.executor": "Run",
-    "HTTP Request.request | #7.executor": "Run",
-    "HTTP Request.request | #8.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Jessica/Documents/Uni Life/Semester 4/PWL/TEST_TUBES",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;HTTP Request.request | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #6.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #7.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.request | #8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jessica/Documents/Uni Life/Semester 4/PWL/TEST_TUBES&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jessica\Documents\GitHub\DoublePower\backend" />
